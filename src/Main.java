@@ -15,9 +15,9 @@ public class Main {
         // turn the state of the toy to On
         barbie2.turnOn();
         System.out.println(barbie2.toString());
-		/*System.out.println(toy1.getName() +" "+ toy1.getWeight());
+		System.out.println(toy1.getName() +" "+ toy1.getWeight());
 		System.out.println(toy2.getName() +" "+ toy2.getWeight());
-        System.out.println(toy1.toString());*/
+        System.out.println(toy1.toString());
 
     }
 
